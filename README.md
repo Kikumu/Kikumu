@@ -1,13 +1,11 @@
 # 💫 About Me:
-I’m currently working on: Developing a Retrieval Augmented Generation (RAG) model using Langchain, Huggingface and Ollama with advanced techniques to improve contextual relevance and interaction.
+🔭 I’m currently working on: Developing a Retrieval Augmented Generation (RAG) model using Langchain, Huggingface and Ollama with advanced techniques to improve contextual relevance and interaction.
 <br><br>
-I’m looking to collaborate on: AI projects.
+ 🌱 I’m currently learning: ML model pipeline automation, Data pipeline automation, Containerisation
 <br><br>
-I’m currently learning: Advanced actor-critic algorithms in reinforcement learning and preparing for the AWS Certified Machine Learning Specialty exam.
+💬 Ask me about: Machine learning model deployment, reinforcement learning techniques, or how AI can improve flood prediction and music recommendation systems.
 <br><br>
-Ask me about: Machine learning model deployment, reinforcement learning techniques, or how AI can improve flood prediction and music recommendation systems.
-<br><br>
-Fun fact: I like spicy noodles
+⚡ Fun fact: I like spicy noodles
 
 
 ## 🌐 Socials:
