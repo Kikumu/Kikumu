@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m currently working on: Developing a Retrieval Augmented Generation (RAG) model using Langchain and Ollama with advanced techniques to improve contextual relevance and interaction.<br><br>I’m looking to collaborate on: AI projects that focus on reinforcement learning, neural networks, and data-driven solutions, especially in real-world applications where model deployment and scalability are crucial.<br><br>I’m currently learning: Advanced actor-critic algorithms in reinforcement learning and preparing for the AWS Certified Machine Learning Specialty exam.<br><br>Ask me about: Machine learning model deployment, reinforcement learning techniques, or how AI can improve flood prediction and music recommendation systems.<br><br>Fun fact: I once combined heat camera data with AI-enhanced processing to improve vision in dense smoke environments—adapting to environmental changes better than traditional models!
+I’m currently working on: Developing a Retrieval Augmented Generation (RAG) model using Langchain, Huggingface and Ollama with advanced techniques to improve contextual relevance and interaction.
+<br><br>
+I’m looking to collaborate on: AI projects.
+<br><br>
+I’m currently learning: Advanced actor-critic algorithms in reinforcement learning and preparing for the AWS Certified Machine Learning Specialty exam.
+<br><br>
+Ask me about: Machine learning model deployment, reinforcement learning techniques, or how AI can improve flood prediction and music recommendation systems.
+<br><br>
+Fun fact: I like spicy noodles
 
 
 ## 🌐 Socials:
